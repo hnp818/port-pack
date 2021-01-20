@@ -100,6 +100,9 @@ section {
 		color:rgb(92, 92, 92);
 		background:#cccccc;
 	}
+	.fir {
+		background:rgb(139, 205, 214);
+	}
 	nav li a:hover, .on {
 		color:rgb(226, 226, 226);
 		background:#202020;

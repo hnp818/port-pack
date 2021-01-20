@@ -29,10 +29,10 @@ $(document).ready(function(){
             $('.thumb').isotope({filter:'.all'});
           });
           btn2.click(function(){
-            $('.thumb').isotope({filter:'.ux'});
+            $('.thumb').isotope({filter:'.pack'});
           });
           btn3.click(function(){
-            $('.thumb').isotope({filter:'.pack'});
+            $('.thumb').isotope({filter:'.ux'});
           });
           btn4.click(function(){
             $('.thumb').isotope({filter:'.dr'});
